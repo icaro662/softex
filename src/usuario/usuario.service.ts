@@ -27,12 +27,12 @@ findAll(): Promise<Usuario[]>{
        }
        return usuario;
    }
-  async update(id: number, updateData: UsuarioDto): Promise<Usuario> {
+
+   async update(id: number, updateData: Partial<UsuarioDto>): Promise<Usuario> {
        const usuario = await this.findOne(id);
        this.usuariosRepository.merge(usuario, updateData);
        return this.usuariosRepository.save(usuario);
    }
-
 
    async remove(id: number): Promise<void> {
        const result = await this.usuariosRepository.delete(id);
