@@ -1,0 +1,10 @@
+aula corretiva da última (git) e explicação sobre o 
+funcionamento das avaliações e projeto final.
+
+projeto (produto):
+
+equipe de máx. seis pessoas para desenvolver um produto requesitado.
+SCRUM será utilizado como metodologia.
+
+date: 08-14-2025
+

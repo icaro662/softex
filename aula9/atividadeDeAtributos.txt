@@ -1,0 +1,22 @@
+Atividade de classificar e atribuir do slide "aula 8"
+
+Entidades: Aluno; Disciplina;
+Atributos: 
+{
+   Simples: Nome; Idade; Rua; Bairro; CEP; Cidade; Estado; Complemento;
+   Composto: Endereço;
+   Multivalorado: Telefone;
+   Monovalorado: Matrícula; Código;
+}
+Relacionamento: Cursa;
+
+Entidades: Funcionário; Locadora; Filial;
+Atributos:
+{
+   Simples: Função; Idade; Cidade; Nome; Rua; Bairro; CEP; Complemento;
+   Composto: Endereço;
+   Multivalorado: Telefone;
+   Monovalorado: CNJP; Código;
+}
+Relacionamentos: Possui; Trabalha;
+

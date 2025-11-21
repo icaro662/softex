@@ -1,0 +1,13 @@
+ver assuntos:
+
+API
+
+MVC (MODULES/VIEW||SERVICES/CONTROLLERS)
+
+frameworks
+
+HTTP
+
+Portas
+
+CRUD

@@ -1,0 +1,17 @@
+primeira parte da aula sobre readline, uma biblioteca focada em questionários
+
+continuação de engenharia de software:
+
+PO: conversa com com o cliente
+
+Agilist: organiza as atividades
+
+quality assurance: bug test and such
+
+software engineer: programação em geral dividido em três, o back, front e banco de dados
+
+technical writer: documentação do projeto trabalhado
+
+designer: visual e aux
+
+//date: 08-19-2025
